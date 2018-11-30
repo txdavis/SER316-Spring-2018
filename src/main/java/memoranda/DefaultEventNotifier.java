@@ -13,7 +13,7 @@ import main.java.memoranda.ui.EventNotificationDialog;
  *  
  */
 /*$Id: DefaultEventNotifier.java,v 1.4 2004/01/30 12:17:41 alexeya Exp $*/
-public class DefaultEventNotifier implements EventNotificationListener {
+public class DefaultEventNotifier implements IEventNotificationListener {
 
 	/**
 	 * Constructor for DefaultEventNotifier.
