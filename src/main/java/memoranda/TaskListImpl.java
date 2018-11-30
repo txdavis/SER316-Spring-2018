@@ -29,7 +29,7 @@ import nu.xom.Nodes;
  * 
  */
 /*$Id: TaskListImpl.java,v 1.14 2006/07/03 11:59:19 alexeya Exp $*/
-public class TaskListImpl implements TaskList {
+public class TaskListImpl implements ITaskList {
 
     private Project _project = null;
     private Document _doc = null;
