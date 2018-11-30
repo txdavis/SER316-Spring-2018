@@ -17,7 +17,7 @@ import nu.xom.Element;
  * Default implementation of Project interface
  */
 /*$Id: ProjectImpl.java,v 1.7 2004/11/22 10:02:37 alexeya Exp $*/
-public class ProjectImpl implements Project {
+public class ProjectImpl implements IProject {
 
     private Element _root = null;
 
