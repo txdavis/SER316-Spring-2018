@@ -21,7 +21,7 @@ import nu.xom.Element;
  * 
  */
 /*$Id: EventImpl.java,v 1.9 2004/10/06 16:00:11 ivanrise Exp $*/
-public class EventImpl implements Event, Comparable {
+public class EventImpl implements IEvent, Comparable {
     
     private Element _elem = null;
 
