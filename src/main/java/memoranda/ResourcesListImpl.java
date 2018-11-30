@@ -23,7 +23,7 @@ import nu.xom.Elements;
  *
  */
 /*$Id: ResourcesListImpl.java,v 1.5 2007/03/20 06:21:46 alexeya Exp $*/
-public class ResourcesListImpl implements ResourcesList {
+public class ResourcesListImpl implements IResourcesList {
     
 	private Project _project = null;
     private Document _doc = null;
