@@ -16,7 +16,7 @@ import nu.xom.Element;
  * 
  */
 /*$Id: NoteImpl.java,v 1.6 2004/10/06 19:15:44 ivanrise Exp $*/
-public class NoteImpl implements Note, Comparable {
+public class NoteImpl implements INote, Comparable {
     
     private Element _el = null; 
     private Project _project;
