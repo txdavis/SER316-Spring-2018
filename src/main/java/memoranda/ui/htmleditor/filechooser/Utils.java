@@ -1,3 +1,5 @@
+//TASK 2-1 SMELL WITHIN A CLASS’
+/*
 package main.java.memoranda.ui.htmleditor.filechooser;
 
 import java.io.File;
@@ -12,7 +14,7 @@ public class Utils {
     /*
      * Get the extension of a file.
      */
-    public static String getExtension(File f) {
+  /* public static String getExtension(File f) {
         String ext = null;
         String s = f.getName();
         int i = s.lastIndexOf('.');
@@ -23,4 +25,4 @@ public class Utils {
         return ext;
     }
 
-}
+}*/
