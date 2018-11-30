@@ -21,7 +21,7 @@ import nu.xom.Elements;
  * 
  */
 /*$Id: NoteListImpl.java,v 1.14 2004/10/28 11:30:15 alexeya Exp $*/
-public class NoteListImpl implements NoteList {
+public class NoteListImpl implements INoteList {
 
     private Project _project = null;
     private Document _doc = null;
